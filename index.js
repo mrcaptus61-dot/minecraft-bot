@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 const bot = mineflayer.createBot({
   host: 'samsun5361.aternos.me',
   port: 21808,
-  username: 'AfkBot_Mert',
+  username: 'AFK_Bot',
   version: false,
   checkTimeoutInterval: 60000
 })
